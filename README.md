@@ -1,2 +1,4 @@
-# hello-world
-just now
+# hello world!
+I had a slight depression, once confused, helpless. Who does not desire the company of Lily ? but how the trash can attract butterflies? I don't know what I want to do. I like a lot of things, such as calligraphy, sketching, computer graphics, speeching, etc., but it's always stranded for some unknown reason, and then there's no. Graduating, I struggle against the world, compete with thousands of people for a job that I am willing to hold on to for the rest of my life.Poorer education and environment, do not like the nature of work, many and many conditions do not meet. Try a master's? It took me another three years again, so why not to get to the forefront of technology, so I clicked on AI and started to understand artificial intelligence, machine learning, pattern recognition, neural networks, Linux and Python. It was only a month that I didn't know much about it. I made the decision to enter AI's pit, indeed it is difficult,  but life needs to challenge, and when the comfort zone is going to end? Come on FLY, you don't have to deal with too much, just make time to learn a little bit more, just like a turtle, or to be an obscure ant is not bad.
+To myself and the world.
+                                                                                                                        31 St, March, 2019
