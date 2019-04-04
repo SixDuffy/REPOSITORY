@@ -1,5 +1,3 @@
-# hello-world!
-
 Hi Every!
 
 Welcome to my place! I believe you will gain a lot here.
