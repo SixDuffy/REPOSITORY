@@ -11,7 +11,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------
 # @1Learning sites/学习站点
 
-please click [Sites]
+please click [Sites](https://github.com/SixDuffy/REPOSITORY/blob/master/Studying%20Sites.txt)
 
 
 
