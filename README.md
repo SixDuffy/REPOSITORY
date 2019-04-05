@@ -7,7 +7,7 @@ This project is only for personal study and record. It can not be used for any i
 
 #1#Intro
 
-                                                                                                                    ---April 5,2019---
+                                              ---April 5,2019---
                                                                                                                        
 Gifts of roses, hand there are lingering fragrance. Sow nothing, reap nothing. Study for the purpose of application. I can give myself a
 different way of learning. If I can learn something through an interest and develop myself habits, that's really nice. It 'll only take me a minute with writting it down. In this way, not only do I learn both knowledges at the same time, but also give others the reference
