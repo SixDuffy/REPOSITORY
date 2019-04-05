@@ -1,13 +1,14 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------
 #DECLARATION
+
 This project is only for personal study and record. It can not be used for any illegal activities. Please contact me for infringement. I will delete it in time. Thank you!
 ----------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-#1#Intro
-
                                               ---April 5,2019---
+                                              
+#1#Intro                                            
                                                                                                                        
 Gifts of roses, hand there are lingering fragrance. Sow nothing, reap nothing. Study for the purpose of application. I can give myself a
 different way of learning. If I can learn something through an interest and develop myself habits, that's really nice. It 'll only take me a minute with writting it down. In this way, not only do I learn both knowledges at the same time, but also give others the reference
@@ -32,5 +33,5 @@ The PDF file used in these was taken from the internet.
 ...
 
 #
-STAR HERE
+                                                ---STAR HERE---
 
