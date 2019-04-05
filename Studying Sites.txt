@@ -1,377 +1,377 @@
 
-1Ãâ·ÑÂÛÎÄÍø
-https://arxiv.org/
-2ÈË¹¤ÖÇÄÜ£ºÒ»ÖÖÏÖ´ú·½·¨£¨Learning Textbook½Ì²Ä£©
-http://aima.cs.berkeley.edu/
-3W3school±à³ÌÓïÑÔ
-http://www.w3school.com.cn/
-4python°²×°Ô´Find, install and publish Python packages 
-https://pypi.org/
-5¿ªÔ´The Complete Open-Source and Business Software Platform
-https://sourceforge.net/
-6linuxÏÂÔØÕ¾
-http://www.linuxdown.net/
-7¿ªÔ´ÉçÇø
-https://github.com/
-8Èí¼şÕ¾
-https://en.softonic.com/
-9²ËÄñ½Ì³Ì
-https://www.runoob.com/
-10¿Éº¹Ñ§ÔºÍøÒ×¹«¿ª¿Î
-https://open.163.com/khan/
-11¹ú¼Ò±ê×¼»¯¹ÜÀíÎ¯Ô±»á
-http://www.sac.gov.cn/
-12ººÓïÑÔÎÄÑ§Íø
+1å…è´¹è®ºæ–‡ç½‘
+(https://arxiv.org/)
+2äººå·¥æ™ºèƒ½ï¼šä¸€ç§ç°ä»£æ–¹æ³•ï¼ˆLearning Textbookæ•™æï¼‰
+(http://aima.cs.berkeley.edu/)
+3W3schoolç¼–ç¨‹è¯­è¨€
+(http://www.w3school.com.cn/)
+4pythonå®‰è£…æºFind, install and publish Python packages
+(https://pypi.org/)
+5å¼€æºThe Complete Open-Source and Business Software Platform
+(https://sourceforge.net/)
+6linuxä¸‹è½½ç«™
+(http://www.linuxdown.net/)
+7å¼€æºç¤¾åŒº
+(https://github.com/)
+8è½¯ä»¶ç«™
+(https://en.softonic.com/)
+9èœé¸Ÿæ•™ç¨‹
+(https://www.runoob.com/)
+10å¯æ±—å­¦é™¢ç½‘æ˜“å…¬å¼€è¯¾
+(https://open.163.com/khan/)
+11å›½å®¶æ ‡å‡†åŒ–ç®¡ç†å§”å‘˜ä¼š
+(http://www.sac.gov.cn/)
+12æ±‰è¯­è¨€æ–‡å­¦ç½‘
 https://www.hwxnet.com/
-13ğ¯Ä¦ËÑÊé
+13é¸ æ‘©æœä¹¦
 https://www.jiumodiary.com/
-14¹ú¼Ò±ê×¼ĞĞÒµ±ê×¼ĞÅÏ¢
+14å›½å®¶æ ‡å‡†è¡Œä¸šæ ‡å‡†ä¿¡æ¯
 http://www.zbgb.org/
-15Êé¸ñ£¨¹Å¼®Ó°Ó¡°æ£©
+15ä¹¦æ ¼ï¼ˆå¤ç±å½±å°ç‰ˆï¼‰
 https://www.shuge.org/
-16Ó¢ÎÄµç×ÓÊé¿â
+16è‹±æ–‡ç”µå­ä¹¦åº“
 https://b-ok.cc/
-17ÎÒ¸æËßÄã£¨ÏµÍ³¡¢¹¤¾ßµÈ£©
+17æˆ‘å‘Šè¯‰ä½ ï¼ˆç³»ç»Ÿã€å·¥å…·ç­‰ï¼‰
 https://msdn.itellyou.cn/
-18Çı¶¯¾«Áé
+18é©±åŠ¨ç²¾çµ
 http://www.drivergenius.com/
-19word¡¢pdf¡¢jpgµÈ¸ñÊ½×ª»»
+19wordã€pdfã€jpgç­‰æ ¼å¼è½¬æ¢
 https://smallpdf.com/cn/jpg-to-pdf
 
-   »úÆ÷Ñ§Ï°
+   æœºå™¨å­¦ä¹ 
 
-1¡¢»úÆ÷Ñ§Ï°¾ÍÊÇÕâÃ´ºÃÍæ£¡(medium.com/@ageitgey)
+1ã€æœºå™¨å­¦ä¹ å°±æ˜¯è¿™ä¹ˆå¥½ç©ï¼(medium.com/@ageitgey)
  
-»úÆ÷Ñ§Ï°ËÙ³É¿Î³Ì£¨BerkeleyµÄML£©£º
-Part I£ºhttps://ml.berkeley.edu/blog/2016/11/06/tutorial-1/
-Part II£ºhttps://ml.berkeley.edu/blog/2016/12/24/tutorial-2/
-Part III£ºhttps://ml.berkeley.edu/blog/2017/02/04/tutorial-3/
+æœºå™¨å­¦ä¹ é€Ÿæˆè¯¾ç¨‹ï¼ˆBerkeleyçš„MLï¼‰ï¼š
+Part Iï¼šhttps://ml.berkeley.edu/blog/2016/11/06/tutorial-1/
+Part IIï¼šhttps://ml.berkeley.edu/blog/2016/12/24/tutorial-2/
+Part IIIï¼šhttps://ml.berkeley.edu/blog/2017/02/04/tutorial-3/
  
-»úÆ÷Ñ§Ï°ÈëÃÅÓëÓ¦ÓÃ£ºÊµÀıÍ¼½â(toptal.com)
+æœºå™¨å­¦ä¹ å…¥é—¨ä¸åº”ç”¨ï¼šå®ä¾‹å›¾è§£(toptal.com)
 https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer
  
-»úÆ÷Ñ§Ï°µÄ¼òÒ×Ö¸ÄÏ (monkeylearn.com)
+æœºå™¨å­¦ä¹ çš„ç®€æ˜“æŒ‡å— (monkeylearn.com)
 https://monkeylearn.com/blog/a-gentle-guide-to-machine-learning/
  
-ÈçºÎÑ¡Ôñ»úÆ÷Ñ§Ï°Ëã·¨£¿(sas.com)
+å¦‚ä½•é€‰æ‹©æœºå™¨å­¦ä¹ ç®—æ³•ï¼Ÿ(sas.com)
 https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/
  
-2¡¢Activation and Loss Functions
-¼¤»îº¯ÊıÓëËğÊ§º¯Êı
+2ã€Activation and Loss Functions
+æ¿€æ´»å‡½æ•°ä¸æŸå¤±å‡½æ•°
 
-sigmoid Éñ¾­Ôª (neuralnetworksanddeeplearning.com)
+sigmoid ç¥ç»å…ƒ (neuralnetworksanddeeplearning.com)
 http://neuralnetworksanddeeplearning.com/chap1.html#sigmoid_neurons
  
-¼¤»îº¯ÊıÔÚÉñ¾­ÍøÂçÖĞÓĞÊ²Ã´×÷ÓÃ£¿(quora.com)
+æ¿€æ´»å‡½æ•°åœ¨ç¥ç»ç½‘ç»œä¸­æœ‰ä»€ä¹ˆä½œç”¨ï¼Ÿ(quora.com)
 https://www.quora.com/What-is-the-role-of-the-activation-function-in-a-neural-network
  
-Éñ¾­ÍøÂçµÄ¼¤»îº¯Êı´óÈ«¼°ÆäÓÅÁÓ (stats.stackexchange.com)
+ç¥ç»ç½‘ç»œçš„æ¿€æ´»å‡½æ•°å¤§å…¨åŠå…¶ä¼˜åŠ£ (stats.stackexchange.com)
 https://stats.stackexchange.com/questions/115258/comprehensive-list-of-activation-functions-in-neural-networks-with-pros-cons
  
-¼¤»îº¯Êı¼°Æä·ÖÀà±È½Ï(medium.com)
+æ¿€æ´»å‡½æ•°åŠå…¶åˆ†ç±»æ¯”è¾ƒ(medium.com)
 https://medium.com/towards-data-science/activation-functions-and-its-types-which-is-better-a9a5310cc8f
  
-Àí½â¶ÔÊıËğÊ§ (exegetic.biz)
+ç†è§£å¯¹æ•°æŸå¤± (exegetic.biz)
 http://www.exegetic.biz/blog/2015/12/making-sense-logarithmic-loss/
  
-ËğÊ§º¯Êı(Stanford CS231n)
+æŸå¤±å‡½æ•°(Stanford CS231n)
 http://cs231n.github.io/neural-networks-2/#losses
  
-ËğÊ§º¯ÊıL1 ÓëL2 ±È½Ï(rishy.github.io)
+æŸå¤±å‡½æ•°L1 ä¸L2 æ¯”è¾ƒ(rishy.github.io)
 http://rishy.github.io/ml/2015/07/28/l1-vs-l2-loss/
  
-½»²æìØËğÊ§º¯Êı(neuralnetworksanddeeplearning.com)
+äº¤å‰ç†µæŸå¤±å‡½æ•°(neuralnetworksanddeeplearning.com)
 http://neuralnetworksanddeeplearning.com/chap3.html#the_cross-entropy_cost_function
  
-3¡¢Æ«²î£¨Bias£©
+3ã€åå·®ï¼ˆBiasï¼‰
 
-Éñ¾­ÍøÂçÖĞµÄÆ«²îµÄ×÷ÓÃ(stackoverflow.com)
+ç¥ç»ç½‘ç»œä¸­çš„åå·®çš„ä½œç”¨(stackoverflow.com)
 https://stackoverflow.com/questions/2480650/role-of-bias-in-neural-networks/2499936#2499936
  
-Éñ¾­ÍøÂçÖĞµÄÆ«²î½Úµã(makeyourownneuralnetwork.blogspot.com)
+ç¥ç»ç½‘ç»œä¸­çš„åå·®èŠ‚ç‚¹(makeyourownneuralnetwork.blogspot.com)
 http://makeyourownneuralnetwork.blogspot.com/2016/06/bias-nodes-in-neural-networks.html
  
-Ê²Ã´ÊÇÈË¹¤Éñ¾­ÍøÂçÖĞµÄÆ«²î (quora.com)
+ä»€ä¹ˆæ˜¯äººå·¥ç¥ç»ç½‘ç»œä¸­çš„åå·® (quora.com)
 https://www.quora.com/What-is-bias-in-artificial-neural-network
  
-4¡¢¸ĞÖªÆ÷£¨Perceptron£©
+4ã€æ„ŸçŸ¥å™¨ï¼ˆPerceptronï¼‰
 
-¸ĞÖªÆ÷Ä£ĞÍ(neuralnetworksanddeeplearning.com)
+æ„ŸçŸ¥å™¨æ¨¡å‹(neuralnetworksanddeeplearning.com)
 http://neuralnetworksanddeeplearning.com/chap1.html#perceptrons
  
-¸ĞÖªÆ÷(natureofcode.com)
+æ„ŸçŸ¥å™¨(natureofcode.com)
 http://natureofcode.com/book/chapter-10-neural-networks/#chapter10_figure3
  
-Ò»²ãµÄÉñ¾­ÍøÂç£¨¸ĞÖªÆ÷Ä£ĞÍ£©(dcu.ie)
+ä¸€å±‚çš„ç¥ç»ç½‘ç»œï¼ˆæ„ŸçŸ¥å™¨æ¨¡å‹ï¼‰(dcu.ie)
 http://computing.dcu.ie/~humphrys/Notes/Neural/single.neural.html
  
-´Ó¸ĞÖªÆ÷Ä£ĞÍµ½Éî¶ÈÍøÂç(toptal.com)
+ä»æ„ŸçŸ¥å™¨æ¨¡å‹åˆ°æ·±åº¦ç½‘ç»œ(toptal.com)
 https://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks
  
-5¡¢»Ø¹éËã·¨
+5ã€å›å½’ç®—æ³•
 
-ÏßĞÔ»Ø¹é·ÖÎö¼ò½é(duke.edu)
+çº¿æ€§å›å½’åˆ†æç®€ä»‹(duke.edu)
 http://people.duke.edu/~rnau/regintro.htm
  
-ÏßĞÔ»Ø¹é (ufldl.stanford.edu)
+çº¿æ€§å›å½’ (ufldl.stanford.edu)
 http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/
  
-ÏßĞÔ»Ø¹é (readthedocs.io)
+çº¿æ€§å›å½’ (readthedocs.io)
 http://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html
  
-Âß¼­Ë¹ÌØ»Ø¹é (readthedocs.io)
+é€»è¾‘æ–¯ç‰¹å›å½’ (readthedocs.io)
 http://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
  
-»úÆ÷Ñ§Ï°Ö®¼òµ¥ÏßĞÔ»Ø¹é½Ì³Ì(machinelearningmastery.com)
+æœºå™¨å­¦ä¹ ä¹‹ç®€å•çº¿æ€§å›å½’æ•™ç¨‹(machinelearningmastery.com)
 http://machinelearningmastery.com/simple-linear-regression-tutorial-for-machine-learning/
  
-»úÆ÷Ñ§Ï°Ö®Âß¼­Ë¹ÌØ»Ø¹é½Ì³Ì(machinelearningmastery.com)
+æœºå™¨å­¦ä¹ ä¹‹é€»è¾‘æ–¯ç‰¹å›å½’æ•™ç¨‹(machinelearningmastery.com)
 http://machinelearningmastery.com/logistic-regression-tutorial-for-machine-learning/
  
-softmax »Ø¹é(ufldl.stanford.edu)
+softmax å›å½’(ufldl.stanford.edu)
 http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/
 
 
  
-6¡¢Ìİ¶ÈÏÂ½µ
+6ã€æ¢¯åº¦ä¸‹é™
 
-»ùÓÚÌİ¶ÈÏÂ½µµÄÑ§Ï° (neuralnetworksanddeeplearning.com)
+åŸºäºæ¢¯åº¦ä¸‹é™çš„å­¦ä¹  (neuralnetworksanddeeplearning.com)
 http://neuralnetworksanddeeplearning.com/chap1.html#learning_with_gradient_descent
  
-Ìİ¶ÈÏÂ½µ(iamtrask.github.io)
+æ¢¯åº¦ä¸‹é™(iamtrask.github.io)
 http://iamtrask.github.io/2015/07/27/python-network-part2/
  
-ÈçºÎÀí½âÌİ¶ÈÏÂ½µËã·¨£¿(kdnuggets.com)
+å¦‚ä½•ç†è§£æ¢¯åº¦ä¸‹é™ç®—æ³•ï¼Ÿ(kdnuggets.com)
 http://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html
  
-Ìİ¶ÈÏÂ½µÓÅ»¯Ëã·¨¸ÅÀÀ(sebastianruder.com)
+æ¢¯åº¦ä¸‹é™ä¼˜åŒ–ç®—æ³•æ¦‚è§ˆ(sebastianruder.com)
 http://sebastianruder.com/optimizing-gradient-descent/
  
-ÓÅ»¯Ëã·¨£ºËæ»úÌİ¶ÈÏÂ½µËã·¨ (Stanford CS231n)
+ä¼˜åŒ–ç®—æ³•ï¼šéšæœºæ¢¯åº¦ä¸‹é™ç®—æ³• (Stanford CS231n)
 http://cs231n.github.io/optimization-1/
  
-7¡¢Éú³ÉÑ§Ï°
+7ã€ç”Ÿæˆå­¦ä¹ 
  
-Éú³ÉÑ§Ï°Ëã·¨ (Stanford CS229)
+ç”Ÿæˆå­¦ä¹ ç®—æ³• (Stanford CS229)
 http://cs229.stanford.edu/notes/cs229-notes2.pdf
  
-±´Ò¶Ë¹·ÖÀàËã·¨Ö®ÊµÀı½âÎö(monkeylearn.com)
+è´å¶æ–¯åˆ†ç±»ç®—æ³•ä¹‹å®ä¾‹è§£æ(monkeylearn.com)
 https://monkeylearn.com/blog/practical-explanation-naive-bayes-classifier/
  
-8¡¢Ö§³ÖÏòÁ¿»ú
+8ã€æ”¯æŒå‘é‡æœº
  
-Ö§³ÖÏòÁ¿»ú£¨SVM£©ÈëÃÅ(monkeylearn.com)
+æ”¯æŒå‘é‡æœºï¼ˆSVMï¼‰å…¥é—¨(monkeylearn.com)
 https://monkeylearn.com/blog/introduction-to-support-vector-machines-svm/
  
-Ö§³ÖÏòÁ¿»ú(Stanford CS229)
+æ”¯æŒå‘é‡æœº(Stanford CS229)
 http://cs229.stanford.edu/notes/cs229-notes3.pdf
  
-ÏßĞÔ·ÖÀà£ºÖ§³ÖÏòÁ¿»ú£¬Softmax (Stanford 231n)
+çº¿æ€§åˆ†ç±»ï¼šæ”¯æŒå‘é‡æœºï¼ŒSoftmax (Stanford 231n)
 http://cs231n.github.io/linear-classify/
  
-9¡¢ºóÏò´«²¥Ëã·¨£¨Backpropagation£©
+9ã€åå‘ä¼ æ’­ç®—æ³•ï¼ˆBackpropagationï¼‰
  
-ºóÏò´«²¥Ëã·¨±ØÖª(medium.com/@karpathy)
+åå‘ä¼ æ’­ç®—æ³•å¿…çŸ¥(medium.com/@karpathy)
 https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b
  
-À´£¬¸øÎÒÍ¼½âÒ»ÏÂÉñ¾­ÍøÂçºóÏò´«²¥Ëã·¨£¿(github.com/rasbt)
+æ¥ï¼Œç»™æˆ‘å›¾è§£ä¸€ä¸‹ç¥ç»ç½‘ç»œåå‘ä¼ æ’­ç®—æ³•ï¼Ÿ(github.com/rasbt)
 https://github.com/rasbt/python-machine-learning-book/blob/master/faq/visual-backpropagation.md
  
-ºóÏò´«²¥Ëã·¨ÊÇÈçºÎÔËĞĞµÄ£¿(neuralnetworksanddeeplearning.com)
+åå‘ä¼ æ’­ç®—æ³•æ˜¯å¦‚ä½•è¿è¡Œçš„ï¼Ÿ(neuralnetworksanddeeplearning.com)
 http://neuralnetworksanddeeplearning.com/chap2.html
  
-ÑØÊ±ºóÏò´«²¥Ëã·¨ÓëÌİ¶ÈÏûÊ§(wildml.com)
+æ²¿æ—¶åå‘ä¼ æ’­ç®—æ³•ä¸æ¢¯åº¦æ¶ˆå¤±(wildml.com)
 http://www.wildml.com/2015/10/recurrent-neural-networks-tutorial-part-3-backpropagation-through-time-and-vanishing-gradients/
  
-¼òÒ×ÈëÃÅÑØÊ±ºóÏò´«²¥Ëã·¨(machinelearningmastery.com)
+ç®€æ˜“å…¥é—¨æ²¿æ—¶åå‘ä¼ æ’­ç®—æ³•(machinelearningmastery.com)
 http://machinelearningmastery.com/gentle-introduction-backpropagation-time/
  
-±¼ÅÜ°É£¬ºóÏò´«²¥Ëã·¨£¡(Stanford CS231n)
+å¥”è·‘å§ï¼Œåå‘ä¼ æ’­ç®—æ³•ï¼(Stanford CS231n)
 http://cs231n.github.io/optimization-2/
  
-10¡¢Éî¶ÈÑ§Ï°
+10ã€æ·±åº¦å­¦ä¹ 
  
-¹û¿ÇÀïµÄÉî¶ÈÑ§Ï°(nikhilbuduma.com)
+æœå£³é‡Œçš„æ·±åº¦å­¦ä¹ (nikhilbuduma.com)
 http://nikhilbuduma.com/2014/12/29/deep-learning-in-a-nutshell/
  
-Éî¶ÈÑ§Ï°½Ì³Ì (Quoc V. Le)
+æ·±åº¦å­¦ä¹ æ•™ç¨‹ (Quoc V. Le)
 http://ai.stanford.edu/~quocle/tutorial1.pdf
  
-Éî¶ÈÑ§Ï°£¬Ê²Ã´¹í£¿(machinelearningmastery.com)
+æ·±åº¦å­¦ä¹ ï¼Œä»€ä¹ˆé¬¼ï¼Ÿ(machinelearningmastery.com)
 http://machinelearningmastery.com/what-is-deep-learning/
  
-Ê²Ã´ÊÇÈË¹¤ÖÇÄÜ£¬»úÆ÷Ñ§Ï°£¬Éî¶ÈÑ§Ï°Ö®¼äµÄÇø±ğ£¿ (nvidia.com)
+ä»€ä¹ˆæ˜¯äººå·¥æ™ºèƒ½ï¼Œæœºå™¨å­¦ä¹ ï¼Œæ·±åº¦å­¦ä¹ ä¹‹é—´çš„åŒºåˆ«ï¼Ÿ (nvidia.com)
 https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/
  
-11¡¢ÓÅ»¯Ëã·¨Óë½µÎ¬Ëã·¨
+11ã€ä¼˜åŒ–ç®—æ³•ä¸é™ç»´ç®—æ³•
  
-Êı¾İ½µÎ¬µÄÆßÕĞÁ¶½ğÊõ(knime.org)
+æ•°æ®é™ç»´çš„ä¸ƒæ‹›ç‚¼é‡‘æœ¯(knime.org)
 https://www.knime.org/blog/seven-techniques-for-data-dimensionality-reduction
  
-Ö÷³É·Ö·ÖÎö(Stanford CS229)
+ä¸»æˆåˆ†åˆ†æ(Stanford CS229)
 http://cs229.stanford.edu/notes/cs229-notes10.pdf
  
-Dropout: ¸Ä½øÉñ¾­ÍøÂçµÄÒ»¸ö¼òµ¥·½·¨(Hinton @ NIPS 2012)
+Dropout: æ”¹è¿›ç¥ç»ç½‘ç»œçš„ä¸€ä¸ªç®€å•æ–¹æ³•(Hinton @ NIPS 2012)
 http://videolectures.net/site/normal_dl/tag=741100/nips2012_hinton_networks_01.pdf
  
-ÈçºÎÁïÄãÃÇ¼ÒµÄÉî¶ÈÉñ¾­ÍøÂç£¿(rishy.github.io)
+å¦‚ä½•æºœä½ ä»¬å®¶çš„æ·±åº¦ç¥ç»ç½‘ç»œï¼Ÿ(rishy.github.io)
 http://rishy.github.io/ml/2017/01/05/how-to-train-your-dnn/
 
 
  
-12¡¢³¤¶ÌÆÚ¼ÇÒä(LSTM) 
+12ã€é•¿çŸ­æœŸè®°å¿†(LSTM) 
 
-ÀÏË¾»ú´øÄã¼òÒ×ÈëÃÅ³¤¶ÌÆÚÉñ¾­ÍøÂç(machinelearningmastery.com)
+è€å¸æœºå¸¦ä½ ç®€æ˜“å…¥é—¨é•¿çŸ­æœŸç¥ç»ç½‘ç»œ(machinelearningmastery.com)
 http://machinelearningmastery.com/gentle-introduction-long-short-term-memory-networks-experts/
  
-Àí½âLSTMÍøÂç(colah.github.io)
+ç†è§£LSTMç½‘ç»œ(colah.github.io)
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/
  
-ÂşÌ¸LSTMÄ£ĞÍ(echen.me)
+æ¼«è°ˆLSTMæ¨¡å‹(echen.me)
 http://blog.echen.me/2017/05/30/exploring-lstms/
  
-Ğ¡Ñ§Éú¿´ÍêÕâ½Ì³Ì¶¼¿ÉÒÔÓÃPythonÊµÏÖÒ»¸öLSTM-RNN (iamtrask.github.io)
+å°å­¦ç”Ÿçœ‹å®Œè¿™æ•™ç¨‹éƒ½å¯ä»¥ç”¨Pythonå®ç°ä¸€ä¸ªLSTM-RNN (iamtrask.github.io)
 http://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/
  
-13¡¢¾í»ıÉñ¾­ÍøÂç£¨CNNs£©
+13ã€å·ç§¯ç¥ç»ç½‘ç»œï¼ˆCNNsï¼‰
  
-¾í»ıÍøÂçÈëÃÅ(neuralnetworksanddeeplearning.com)
+å·ç§¯ç½‘ç»œå…¥é—¨(neuralnetworksanddeeplearning.com)
 http://neuralnetworksanddeeplearning.com/chap6.html#introducing_convolutional_networks
  
-Éî¶ÈÑ§Ï°Óë¾í»ıÉñ¾­ÍøÂçÄ£ĞÍ(medium.com/@ageitgey)
+æ·±åº¦å­¦ä¹ ä¸å·ç§¯ç¥ç»ç½‘ç»œæ¨¡å‹(medium.com/@ageitgey)
 https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721
  
-²ğ½â¾í»ıÍøÂçÄ£ĞÍ(colah.github.io)
+æ‹†è§£å·ç§¯ç½‘ç»œæ¨¡å‹(colah.github.io)
 http://colah.github.io/posts/2014-07-Conv-Nets-Modular/
  
-Àí½â¾í»ıÍøÂç(colah.github.io)
+ç†è§£å·ç§¯ç½‘ç»œ(colah.github.io)
 http://colah.github.io/posts/2014-07-Understanding-Convolutions/
 
-14¡¢µİ¹éÉñ¾­ÍøÂç(RNNs)
+14ã€é€’å½’ç¥ç»ç½‘ç»œ(RNNs)
  
-µİ¹éÉñ¾­ÍøÂç½Ì³Ì (wildml.com)
+é€’å½’ç¥ç»ç½‘ç»œæ•™ç¨‹ (wildml.com)
 http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/
  
-×¢ÒâÁ¦Ä£ĞÍÓëÔöÇ¿ĞÍµİ¹éÉñ¾­ÍøÂç(distill.pub)
+æ³¨æ„åŠ›æ¨¡å‹ä¸å¢å¼ºå‹é€’å½’ç¥ç»ç½‘ç»œ(distill.pub)
 http://distill.pub/2016/augmented-rnns/
  
-ÕâÃ´²»¿ÆÑ§µÄµİ¹éÉñ¾­ÍøÂçÄ£ĞÍ(karpathy.github.io)
+è¿™ä¹ˆä¸ç§‘å­¦çš„é€’å½’ç¥ç»ç½‘ç»œæ¨¡å‹(karpathy.github.io)
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/
  
-ÉîÈëµİ¹éÉñ¾­ÍøÂçÄ£ĞÍ(nikhilbuduma.com)
+æ·±å…¥é€’å½’ç¥ç»ç½‘ç»œæ¨¡å‹(nikhilbuduma.com)
 http://nikhilbuduma.com/2015/01/11/a-deep-dive-into-recurrent-neural-networks/
 
- 15¡¢Ç¿»¯Ñ§Ï°
+ 15ã€å¼ºåŒ–å­¦ä¹ 
  
-¸øĞ¡°×¿´µÄÇ¿»¯Ñ§Ï°¼°ÆäÊµÏÖÖ¸ÄÏ (analyticsvidhya.com)
+ç»™å°ç™½çœ‹çš„å¼ºåŒ–å­¦ä¹ åŠå…¶å®ç°æŒ‡å— (analyticsvidhya.com)
 https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/
  
-Ç¿»¯Ñ§Ï°½Ì³Ì(mst.edu)
+å¼ºåŒ–å­¦ä¹ æ•™ç¨‹(mst.edu)
 https://web.mst.edu/~gosavia/tutorial.pdf
  
-Ç¿»¯Ñ§Ï°£¬ÄãÑ§ÁËÃ´£¿(wildml.com)
+å¼ºåŒ–å­¦ä¹ ï¼Œä½ å­¦äº†ä¹ˆï¼Ÿ(wildml.com)
 http://www.wildml.com/2016/10/learning-reinforcement-learning/
  
-Éî¶ÈÇ¿»¯Ñ§Ï°£º¿ª¹ÒÍæPong (karpathy.github.io)
+æ·±åº¦å¼ºåŒ–å­¦ä¹ ï¼šå¼€æŒ‚ç©Pong (karpathy.github.io)
 http://karpathy.github.io/2016/05/31/rl/
  
-16¡¢¶Ô¿¹Ê½Éú³ÉÍøÂçÄ£ĞÍ(GANs)
+16ã€å¯¹æŠ—å¼ç”Ÿæˆç½‘ç»œæ¨¡å‹(GANs)
  
-Ê²Ã´ÊÇ¶Ô¿¹Ê½Éú³ÉÍøÂçÄ£ĞÍ£¿(nvidia.com)
+ä»€ä¹ˆæ˜¯å¯¹æŠ—å¼ç”Ÿæˆç½‘ç»œæ¨¡å‹ï¼Ÿ(nvidia.com)
 https://blogs.nvidia.com/blog/2017/05/17/generative-adversarial-network/
  
-ÓÃ¶Ô¿¹Ê½Éú³ÉÍøÂç´´Ôì8¸öÏñËØµÄÒÕÊõ(medium.com/@ageitgey)
+ç”¨å¯¹æŠ—å¼ç”Ÿæˆç½‘ç»œåˆ›é€ 8ä¸ªåƒç´ çš„è‰ºæœ¯(medium.com/@ageitgey)
 https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7
  
-¶Ô¿¹Ê½Éú³ÉÍøÂçÈëÃÅ£¨TensorFlow£©(aylien.com)
+å¯¹æŠ—å¼ç”Ÿæˆç½‘ç»œå…¥é—¨ï¼ˆTensorFlowï¼‰(aylien.com)
 http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/
  
-¡¶¶Ô¿¹Ê½Éú³ÉÍøÂç¡·£¨Ğ¡Ñ§Ò»Äê¼¶~ÉÏ²á£©(oreilly.com)
+ã€Šå¯¹æŠ—å¼ç”Ÿæˆç½‘ç»œã€‹ï¼ˆå°å­¦ä¸€å¹´çº§~ä¸Šå†Œï¼‰(oreilly.com)
 https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners
  
-17¡¢¶àÈÎÎñÑ§Ï°
+17ã€å¤šä»»åŠ¡å­¦ä¹ 
 
-Éî¶ÈÉñ¾­ÍøÂçÖĞµÄ¶àÈÎÎñÑ§Ï°¸ÅÊö(sebastianruder.com)
+æ·±åº¦ç¥ç»ç½‘ç»œä¸­çš„å¤šä»»åŠ¡å­¦ä¹ æ¦‚è¿°(sebastianruder.com)
 http://sebastianruder.com/multi-task/index.html
 
 
   NLP
 
-1¡¢NLP
+1ã€NLP
 
-¡¶»ùÓÚÉñ¾­ÍøÂçÄ£ĞÍµÄ×ÔÈ»ÓïÑÔ´¦Àí¡·£¨Ğ¡Ñ§Ò»Äê¼¶~ÉÏ²á£©(Yoav Goldberg)
+ã€ŠåŸºäºç¥ç»ç½‘ç»œæ¨¡å‹çš„è‡ªç„¶è¯­è¨€å¤„ç†ã€‹ï¼ˆå°å­¦ä¸€å¹´çº§~ä¸Šå†Œï¼‰(Yoav Goldberg)
 http://u.cs.biu.ac.il/~yogo/nnlp.pdf
  
-×ÔÈ»ÓïÑÔ´¦ÀíÈ¨ÍşÖ¸ÄÏ(monkeylearn.com)
+è‡ªç„¶è¯­è¨€å¤„ç†æƒå¨æŒ‡å—(monkeylearn.com)
 https://monkeylearn.com/blog/the-definitive-guide-to-natural-language-processing/
  
-×ÔÈ»ÓïÑÔ´¦ÀíÈëÃÅ(algorithmia.com)
+è‡ªç„¶è¯­è¨€å¤„ç†å…¥é—¨(algorithmia.com)
 https://blog.algorithmia.com/introduction-natural-language-processing-nlp/
  
-×ÔÈ»ÓïÑÔ´¦Àí½Ì³Ì (vikparuchuri.com)
+è‡ªç„¶è¯­è¨€å¤„ç†æ•™ç¨‹ (vikparuchuri.com)
 http://www.vikparuchuri.com/blog/natural-language-processing-tutorial/
  
 Natural Language Processing (almost) from Scratch (arxiv.org)
-³õ¸ßÖĞÉú¿Î³Ì£º×ÔÈ»ÓïÑÔ´¦Àí (arxiv.org)
+åˆé«˜ä¸­ç”Ÿè¯¾ç¨‹ï¼šè‡ªç„¶è¯­è¨€å¤„ç† (arxiv.org)
 https://arxiv.org/pdf/1103.0398.pdf  
 
-2¡¢Éî¶ÈÑ§Ï°ºÍ NLP
+2ã€æ·±åº¦å­¦ä¹ å’Œ NLP
 
-»ùÓÚÉî¶ÈÑ§Ï°µÄNLPÓ¦ÓÃ(arxiv.org)
+åŸºäºæ·±åº¦å­¦ä¹ çš„NLPåº”ç”¨(arxiv.org)
 https://arxiv.org/pdf/1703.03091.pdf
  
-»ùÓÚÉî¶ÈÑ§Ï°µÄNLP(Richard Socher)
+åŸºäºæ·±åº¦å­¦ä¹ çš„NLP(Richard Socher)
 https://nlp.stanford.edu/courses/NAACL2013/NAACL2013-Socher-Manning-DeepLearning.pdf
  
-Àí½â¾í»ıÉñ¾­ÍøÂçÔÚNLPÖĞµÄÓ¦ÓÃ(wildml.com)
+ç†è§£å·ç§¯ç¥ç»ç½‘ç»œåœ¨NLPä¸­çš„åº”ç”¨(wildml.com)
 http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/
  
-Éî¶ÈÑ§Ï°£¬NLP£¬±íÊ¾Ñ§Ï°(colah.github.io)
+æ·±åº¦å­¦ä¹ ï¼ŒNLPï¼Œè¡¨ç¤ºå­¦ä¹ (colah.github.io)
 http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/
  
-Ç¶Èë±íÊ¾£¬±àÂë£¬×¢ÒâÁ¦£¬Ô¤²â : ĞÂÒ»´úÉî¶ÈÑ§Ï°ÒòNLPµÄ¾«Ãî¶ø´æÔÚ(explosion.ai)
+åµŒå…¥è¡¨ç¤ºï¼Œç¼–ç ï¼Œæ³¨æ„åŠ›ï¼Œé¢„æµ‹ : æ–°ä¸€ä»£æ·±åº¦å­¦ä¹ å› NLPçš„ç²¾å¦™è€Œå­˜åœ¨(explosion.ai)
 https://explosion.ai/blog/deep-learning-formula-nlp
  
-Àí½â»ùÓÚÉñ¾­ÍøÂçµÄ×ÔÈ»ÓïÑÔ´¦Àí(TorchÊµÏÖ) (nvidia.com)
+ç†è§£åŸºäºç¥ç»ç½‘ç»œçš„è‡ªç„¶è¯­è¨€å¤„ç†(Torchå®ç°) (nvidia.com)
 https://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/
  
-Éî¶ÈÑ§Ï°ÔÚNLPÖĞµÄÓ¦ÓÃ(PytorchÊµÏÖ) (pytorich.org)
+æ·±åº¦å­¦ä¹ åœ¨NLPä¸­çš„åº”ç”¨(Pytorchå®ç°) (pytorich.org)
 http://pytorch.org/tutorials/beginner/deep_learning_nlp_tutorial.html
  
- 3¡¢´ÊÏòÁ¿£¨Word Vectors£©
+ 3ã€è¯å‘é‡ï¼ˆWord Vectorsï¼‰
  
-´Ê´ü·¨Óöµ½¸ĞÖªÆ÷×°´ü·¨(kaggle.com)
+è¯è¢‹æ³•é‡åˆ°æ„ŸçŸ¥å™¨è£…è¢‹æ³•(kaggle.com)
 https://www.kaggle.com/c/word2vec-nlp-tutorial
  
-Ñ§Ï°µ¥´ÊÇ¶Èë±íÊ¾·¨(sebastianruder.com)
-Part I£ºhttp://sebastianruder.com/word-embeddings-1/index.html
-Part II£ºhttp://sebastianruder.com/word-embeddings-softmax/index.html
-Part III£ºhttp://sebastianruder.com/secret-word2vec/index.html
+å­¦ä¹ å•è¯åµŒå…¥è¡¨ç¤ºæ³•(sebastianruder.com)
+Part Iï¼šhttp://sebastianruder.com/word-embeddings-1/index.html
+Part IIï¼šhttp://sebastianruder.com/word-embeddings-softmax/index.html
+Part IIIï¼šhttp://sebastianruder.com/secret-word2vec/index.html
  
-µ¥´ÊÇ¶Èë±íÊ¾µÄÉñÆæÁ¦Á¿(acolyer.org)
+å•è¯åµŒå…¥è¡¨ç¤ºçš„ç¥å¥‡åŠ›é‡(acolyer.org)
 https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/
  
-½âÊÍword2vec µÄ²ÎÊıÑ§Ï°(arxiv.org)
+è§£é‡Šword2vec çš„å‚æ•°å­¦ä¹ (arxiv.org)
 https://arxiv.org/pdf/1411.2738.pdf
  
-word2vec½Ì³Ì skip-gram Ä£ĞÍ£¬¸º²ÉÑù(mccormickml.com)
+word2vecæ•™ç¨‹ skip-gram æ¨¡å‹ï¼Œè´Ÿé‡‡æ ·(mccormickml.com)
 http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
  
-4¡¢Encoder-Decoder
+4ã€Encoder-Decoder
  
-×¢ÒâÁ¦»úÖÆÓë¼ÇÒä»úÖÆÔÚÉî¶ÈÑ§Ï°ÓëNLPÖĞµÄÓ¦ÓÃ(wildml.com)
+æ³¨æ„åŠ›æœºåˆ¶ä¸è®°å¿†æœºåˆ¶åœ¨æ·±åº¦å­¦ä¹ ä¸NLPä¸­çš„åº”ç”¨(wildml.com)
 http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/
  
-ĞòÁĞµ½ĞòÁĞÄ£ĞÍ(tensorflow.org)
+åºåˆ—åˆ°åºåˆ—æ¨¡å‹(tensorflow.org)
 https://www.tensorflow.org/tutorials/seq2seq
  
-ÀûÓÃÉñ¾­ÍøÂçÑ§Ï°ĞòÁĞµ½ĞòÁĞÄ£ĞÍ(NIPS 2014)
+åˆ©ç”¨ç¥ç»ç½‘ç»œå­¦ä¹ åºåˆ—åˆ°åºåˆ—æ¨¡å‹(NIPS 2014)
 https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf
  
-»ùÓÚÉî¶ÈÑ§Ï°ºÍÄ§·¨ĞòÁĞµÄÓïÑÔ·­Òë(medium.com/@ageitgey)
+åŸºäºæ·±åº¦å­¦ä¹ å’Œé­”æ³•åºåˆ—çš„è¯­è¨€ç¿»è¯‘(medium.com/@ageitgey)
 https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa
  
-ÈçºÎÊ¹ÓÃ±àÂë-½âÂëLSTMÊä³öËæ»úÕûÊı¶ÔÓ¦µÄĞòÁĞ(machinelearningmastery.com)
+å¦‚ä½•ä½¿ç”¨ç¼–ç -è§£ç LSTMè¾“å‡ºéšæœºæ•´æ•°å¯¹åº”çš„åºåˆ—(machinelearningmastery.com)
 http://machinelearningmastery.com/how-to-use-an-encoder-decoder-lstm-to-echo-sequences-of-random-integers/
  
 tf-seq2seq (google.github.io)
@@ -380,175 +380,175 @@ https://google.github.io/seq2seq/
 
   Python
 
-1¡¢Python
+1ã€Python
 
-Ê¹ÓÃPython¾«Í¨»úÆ÷Ñ§Ï°µÄÆß²½·¨(kdnuggets.com)
+ä½¿ç”¨Pythonç²¾é€šæœºå™¨å­¦ä¹ çš„ä¸ƒæ­¥æ³•(kdnuggets.com)
 http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html
  
-»úÆ÷Ñ§Ï°µÄÒ»¸ö¼òÀı(nbviewer.jupyter.org)
+æœºå™¨å­¦ä¹ çš„ä¸€ä¸ªç®€ä¾‹(nbviewer.jupyter.org)
 http://nbviewer.jupyter.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example Machine Learning Notebook.ipynb
 
-2¡¢ÊµÀı
+2ã€å®ä¾‹
 
-Ğ¡°×ÈçºÎÓÃpythonÊµÏÖ¸ĞÖªÆ÷Ëã·¨(machinelearningmastery.com)
+å°ç™½å¦‚ä½•ç”¨pythonå®ç°æ„ŸçŸ¥å™¨ç®—æ³•(machinelearningmastery.com)
 http://machinelearningmastery.com/implement-perceptron-algorithm-scratch-python/
  
-Ğ¡Ñ§ÉúÓÃpythonÊµÏÖÒ»¸öÉñ¾­ÍøÂç(wildml.com)
+å°å­¦ç”Ÿç”¨pythonå®ç°ä¸€ä¸ªç¥ç»ç½‘ç»œ(wildml.com)
 http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/
  
-Ö»ÓÃ11ĞĞpython´úÂëÊµÏÖÒ»¸öÉñ¾­ÍøÂçËã·¨(iamtrask.github.io)
+åªç”¨11è¡Œpythonä»£ç å®ç°ä¸€ä¸ªç¥ç»ç½‘ç»œç®—æ³•(iamtrask.github.io)
 http://iamtrask.github.io/2015/07/12/basic-python-network/
  
-×Ô¼º¶¯ÊÖÓÃptythonÊµÏÖ×î½üÁÚËã·¨(kdnuggets.com)
+è‡ªå·±åŠ¨æ‰‹ç”¨ptythonå®ç°æœ€è¿‘é‚»ç®—æ³•(kdnuggets.com)
 http://www.kdnuggets.com/2016/01/implementing-your-own-knn-using-python.html
  
-pythonÊµÏÖ³¤¶ÌÆÚ¼ÇÒäÍøÂçµÄ¼ÇÒä»úÖÆ(machinelearningmastery.com)
+pythonå®ç°é•¿çŸ­æœŸè®°å¿†ç½‘ç»œçš„è®°å¿†æœºåˆ¶(machinelearningmastery.com)
 http://machinelearningmastery.com/memory-in-a-long-short-term-memory-network/
  
-ÈçºÎÓÃ³¤¶ÌÆÚ¼ÇÒäµİ¹éÉñ¾­ÍøÂçÊä³öËæ»úÕûÊı(machinelearningmastery.com)
+å¦‚ä½•ç”¨é•¿çŸ­æœŸè®°å¿†é€’å½’ç¥ç»ç½‘ç»œè¾“å‡ºéšæœºæ•´æ•°(machinelearningmastery.com)
 http://machinelearningmastery.com/learn-echo-random-integers-long-short-term-memory-recurrent-neural-networks/
  
-ÈçºÎÓÃseq2seqµİ¹éÉñ¾­ÍøÂçÑ§Ï°¼Ó·¨ÔËËã(machinelearningmastery.com)
+å¦‚ä½•ç”¨seq2seqé€’å½’ç¥ç»ç½‘ç»œå­¦ä¹ åŠ æ³•è¿ç®—(machinelearningmastery.com)
 http://machinelearningmastery.com/learn-add-numbers-seq2seq-recurrent-neural-networks/
  
-3¡¢Scipy ºÍ numpy
+3ã€Scipy å’Œ numpy
  
-Scipy¿Î³Ì±Ê¼Ç(scipy-lectures.org)
+Scipyè¯¾ç¨‹ç¬”è®°(scipy-lectures.org)
 http://www.scipy-lectures.org/
  
-Python Numpy ½Ì³Ì(Stanford CS231n)
+Python Numpy æ•™ç¨‹(Stanford CS231n)
 http://cs231n.github.io/python-numpy-tutorial/
  
-Numpy Óë Scipy ÈëÃÅ(UCSB CHE210D)
+Numpy ä¸ Scipy å…¥é—¨(UCSB CHE210D)
 https://engineering.ucsb.edu/~shell/che210d/numpy.pdf
  
-¸ø¿ÆÑ§¼Ò¿´µÄPythonÎ¢¿Î³Ì(nbviewer.jupyter.org)
+ç»™ç§‘å­¦å®¶çœ‹çš„Pythonå¾®è¯¾ç¨‹(nbviewer.jupyter.org)
 http://nbviewer.jupyter.org/gist/rpmuller/5920182#ii.-numpy-and-scipy
  
-4¡¢scikit-learn
+4ã€scikit-learn
  
-PyCon»áÒéÉÏµÄScik-learn ½Ì³Ì(nbviewer.jupyter.org)
+PyConä¼šè®®ä¸Šçš„Scik-learn æ•™ç¨‹(nbviewer.jupyter.org)
 http://nbviewer.jupyter.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/Index.ipynb
  
-Scikit-learn ÖĞµÄ·ÖÀàËã·¨(github.com/mmmayo13)
+Scikit-learn ä¸­çš„åˆ†ç±»ç®—æ³•(github.com/mmmayo13)
 https://github.com/mmmayo13/scikit-learn-classifiers/blob/master/sklearn-classifiers-tutorial.ipynb
  
-Scikit-learn½Ì³Ì(scikit-learn.org)
+Scikit-learnæ•™ç¨‹(scikit-learn.org)
 http://scikit-learn.org/stable/tutorial/index.html
  
-¼òÃ÷°æScikit-learn½Ì³Ì(github.com/mmmayo13)
+ç®€æ˜ç‰ˆScikit-learnæ•™ç¨‹(github.com/mmmayo13)
 https://github.com/mmmayo13/scikit-learn-beginners-tutorials
  
-5¡¢Tensorflow
+5ã€Tensorflow
 
- Tensorflow½Ì³Ì£¨ÖĞÎÄ£©
+ Tensorflowæ•™ç¨‹ï¼ˆä¸­æ–‡ï¼‰
 http://www.tensorfly.cn/
 
-Tensorflow½Ì³Ì(tensorflow.org)
+Tensorflowæ•™ç¨‹(tensorflow.org)
 https://www.tensorflow.org/tutorials/
  
-TensorflowÈëÃÅ--CPU vs GPU
+Tensorflowå…¥é—¨--CPU vs GPU
  (medium.com/@erikhallstrm)
 https://medium.com/@erikhallstrm/hello-world-tensorflow-649b15aed18c
  
-TensorflowÈëÃÅ(metaflow.fr)
+Tensorflowå…¥é—¨(metaflow.fr)
 https://blog.metaflow.fr/tensorflow-a-primer-4b3fa0978be3
  
-TensorflowÊµÏÖRNNs (wildml.com)
+Tensorflowå®ç°RNNs (wildml.com)
 http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/
  
-TensorflowÊµÏÖÎÄ±¾·ÖÀàCNNÄ£ĞÍ(wildml.com)
+Tensorflowå®ç°æ–‡æœ¬åˆ†ç±»CNNæ¨¡å‹(wildml.com)
 http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/
  
-ÈçºÎÓÃTensorflow×öÎÄ±¾ÕªÒª(surmenok.com)
+å¦‚ä½•ç”¨Tensorflowåšæ–‡æœ¬æ‘˜è¦(surmenok.com)
 http://pavel.surmenok.com/2016/10/15/how-to-run-text-summarization-with-tensorflow/
  
-6¡¢PyTorch
+6ã€PyTorch
  
-Pytorch½Ì³Ì(pytorch.org)
+Pytorchæ•™ç¨‹(pytorch.org)
 http://pytorch.org/tutorials/
 
-Pytorch¿ìÊÖÈëÃÅ (gaurav.im)
+Pytorchå¿«æ‰‹å…¥é—¨ (gaurav.im)
 http://blog.gaurav.im/2017/04/24/a-gentle-intro-to-pytorch/
  
-ÀûÓÃPytorchÉî¶ÈÑ§Ï°½Ì³Ì(iamtrask.github.io)
+åˆ©ç”¨Pytorchæ·±åº¦å­¦ä¹ æ•™ç¨‹(iamtrask.github.io)
 https://iamtrask.github.io/2017/01/15/pytorch-tutorial/
  
-PytorchÊµÕ½(github.com/jcjohnson)
+Pytorchå®æˆ˜(github.com/jcjohnson)
 https://github.com/jcjohnson/pytorch-examples
  
-PyTorch ½Ì³Ì(github.com/MorvanZhou)
+PyTorch æ•™ç¨‹(github.com/MorvanZhou)
 https://github.com/MorvanZhou/PyTorch-Tutorial
  
-Éî¶ÈÑ§Ï°ÑĞ¾¿ÈËÔ±¿´µÄPyTorch½Ì³Ì(github.com/yunjey)
+æ·±åº¦å­¦ä¹ ç ”ç©¶äººå‘˜çœ‹çš„PyTorchæ•™ç¨‹(github.com/yunjey)
 https://github.com/yunjey/pytorch-tutorial
  
 
 
-  ÊıÑ§
+  æ•°å­¦
 
-1¡¢»úÆ÷Ñ§Ï°ÖĞµÄÊıÑ§ (ucsc.edu)
+1ã€æœºå™¨å­¦ä¹ ä¸­çš„æ•°å­¦ (ucsc.edu)
 https://people.ucsc.edu/~praman1/static/pub/math-for-ml.pdf
  
-»úÆ÷Ñ§Ï°ÊıÑ§»ù´¡(UMIACS CMSC422)
+æœºå™¨å­¦ä¹ æ•°å­¦åŸºç¡€(UMIACS CMSC422)
 http://www.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf
  
-2¡¢ÏßĞÔ´úÊı
+2ã€çº¿æ€§ä»£æ•°
  
-ÏßĞÔ´úÊı¼òÃ÷Ö¸ÄÏ(betterexplained.com)
+çº¿æ€§ä»£æ•°ç®€æ˜æŒ‡å—(betterexplained.com)
 https://betterexplained.com/articles/linear-algebra-guide/
  
-ÂëÅ©ÑÛÖĞ¾ØÕó³Ë·¨ (betterexplained.com)
+ç å†œçœ¼ä¸­çŸ©é˜µä¹˜æ³• (betterexplained.com)
 https://betterexplained.com/articles/matrix-multiplication/
  
-Àí½â²æ³ËÔËËã(betterexplained.com)
+ç†è§£å‰ä¹˜è¿ç®—(betterexplained.com)
 https://betterexplained.com/articles/cross-product/
  
-Àí½âµã³ËÔËËã(betterexplained.com)
+ç†è§£ç‚¹ä¹˜è¿ç®—(betterexplained.com)
 https://betterexplained.com/articles/vector-calculus-understanding-the-dot-product/
  
-»úÆ÷Ñ§Ï°ÖĞµÄÏßĞÔ´úÊı(U. of Buffalo CSE574)
+æœºå™¨å­¦ä¹ ä¸­çš„çº¿æ€§ä»£æ•°(U. of Buffalo CSE574)
 http://www.cedar.buffalo.edu/~srihari/CSE574/Chap1/LinearAlgebra.pdf
  
-Éî¶ÈÑ§Ï°µÄÏß´úĞ¡³­(medium.com)
+æ·±åº¦å­¦ä¹ çš„çº¿ä»£å°æŠ„(medium.com)
 https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c
  
-¸´Ï°ÏßĞÔ´úÊıÓë¿ÎºóÔÄ¶Á²ÄÁÏ(Stanford CS229)
+å¤ä¹ çº¿æ€§ä»£æ•°ä¸è¯¾åé˜…è¯»ææ–™(Stanford CS229)
 http://cs229.stanford.edu/section/cs229-linalg.pdf
  
-3¡¢¸ÅÂÊÂÛ
+3ã€æ¦‚ç‡è®º
  
-±´Ò¶Ë¹ÀíÂÛ (betterexplained.com)
+è´å¶æ–¯ç†è®º (betterexplained.com)
 https://betterexplained.com/articles/understanding-bayes-theorem-with-ratios/
  
-Àí½â±´Ò¶Ë¹¸ÅÂÊÀíÂÛ(Stanford CS229)
+ç†è§£è´å¶æ–¯æ¦‚ç‡ç†è®º(Stanford CS229)
 http://cs229.stanford.edu/section/cs229-prob.pdf
  
-¸´Ï°»úÆ÷Ñ§Ï°ÖĞµÄ¸ÅÂÊÂÛ(Stanford CS229)
+å¤ä¹ æœºå™¨å­¦ä¹ ä¸­çš„æ¦‚ç‡è®º(Stanford CS229)
 https://see.stanford.edu/materials/aimlcs229/cs229-prob.pdf
  
-¸ÅÂÊÂÛ(U. of Buffalo CSE574)
+æ¦‚ç‡è®º(U. of Buffalo CSE574)
 http://www.cedar.buffalo.edu/~srihari/CSE574/Chap1/Probability-Theory.pdf
  
-»úÆ÷Ñ§Ï°ÖĞµÄ¸ÅÂÊÂÛ(U. of Toronto CSC411)
+æœºå™¨å­¦ä¹ ä¸­çš„æ¦‚ç‡è®º(U. of Toronto CSC411)
 http://www.cs.toronto.edu/~urtasun/courses/CSC411_Fall16/tutorial1.pdf
 
-4¡¢¼ÆËã·½·¨£¨Calculus£©
+4ã€è®¡ç®—æ–¹æ³•ï¼ˆCalculusï¼‰
  
-ÈçºÎÀí½âµ¼Êı£ºÇóµ¼·¨Ôò£¬Ö¸ÊıºÍËã·¨(betterexplained.com)
+å¦‚ä½•ç†è§£å¯¼æ•°ï¼šæ±‚å¯¼æ³•åˆ™ï¼ŒæŒ‡æ•°å’Œç®—æ³•(betterexplained.com)
 https://betterexplained.com/articles/how-to-understand-derivatives-the-quotient-rule-exponents-and-logarithms/
  
-ÈçºÎÀí½âµ¼Êı£¬³Ë·¨£¬ÃİÖ¸Êı£¬Á´Ê½·¨(betterexplained.com)
+å¦‚ä½•ç†è§£å¯¼æ•°ï¼Œä¹˜æ³•ï¼Œå¹‚æŒ‡æ•°ï¼Œé“¾å¼æ³•(betterexplained.com)
 https://betterexplained.com/articles/derivatives-product-power-chain/
  
-ÏòÁ¿¼ÆËã£¬Àí½âÌİ¶È(betterexplained.com)
+å‘é‡è®¡ç®—ï¼Œç†è§£æ¢¯åº¦(betterexplained.com)
 https://betterexplained.com/articles/vector-calculus-understanding-the-gradient/
  
-Î¢·Ö¼ÆËã(Stanford CS224n)
+å¾®åˆ†è®¡ç®—(Stanford CS224n)
 http://web.stanford.edu/class/cs224n/lecture_notes/cs224n-2017-review-differential-calculus.pdf
  
-¼ÆËã·½·¨¸ÅÂÛ(readthedocs.io)
+è®¡ç®—æ–¹æ³•æ¦‚è®º(readthedocs.io)
 http://ml-cheatsheet.readthedocs.io/en/latest/calculus.html
 
-1ÖÜÖ¾»ªÎ÷¹ÏÊé¹«Ê½½âÎö
+1å‘¨å¿—åè¥¿ç“œä¹¦å…¬å¼è§£æ
 https://github.com/datawhalechina/pumpkin-book
