@@ -1,44 +1,4 @@
-
-1免费论文网
-(https://arxiv.org/)
-2人工智能：一种现代方法（Learning Textbook教材）
-(http://aima.cs.berkeley.edu/)
-3W3school编程语言
-(http://www.w3school.com.cn/)
-4python安装源Find, install and publish Python packages
-(https://pypi.org/)
-5开源The Complete Open-Source and Business Software Platform
-(https://sourceforge.net/)
-6linux下载站
-(http://www.linuxdown.net/)
-7开源社区
-(https://github.com/)
-8软件站
-(https://en.softonic.com/)
-9菜鸟教程
-(https://www.runoob.com/)
-10可汗学院网易公开课
-(https://open.163.com/khan/)
-11国家标准化管理委员会
-(http://www.sac.gov.cn/)
-12汉语言文学网
-https://www.hwxnet.com/
-13鸠摩搜书
-https://www.jiumodiary.com/
-14国家标准行业标准信息
-http://www.zbgb.org/
-15书格（古籍影印版）
-https://www.shuge.org/
-16英文电子书库
-https://b-ok.cc/
-17我告诉你（系统、工具等）
-https://msdn.itellyou.cn/
-18驱动精灵
-http://www.drivergenius.com/
-19word、pdf、jpg等格式转换
-https://smallpdf.com/cn/jpg-to-pdf
-
-   机器学习
+# 机器学习
 
 1、机器学习就是这么好玩！(medium.com/@ageitgey)
  
@@ -552,3 +512,4 @@ http://ml-cheatsheet.readthedocs.io/en/latest/calculus.html
 
 1周志华西瓜书公式解析
 https://github.com/datawhalechina/pumpkin-book
+
