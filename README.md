@@ -13,6 +13,18 @@
 
 please click [Sites](https://github.com/SixDuffy/REPOSITORY/blob/master/Studying%20Sites.txt)
 
+[免费论文网](https://arxiv.org/)
+
+[可汗学院网易公开课](https://open.163.com/khan/)
+
+[鸠摩搜书](https://www.jiumodiary.com/)
+
+[英文电子书库](https://b-ok.cc/)
+
+[Coursera](https://www.coursera.org/)
+
+
+
 
 
 # @2Translation/翻译
