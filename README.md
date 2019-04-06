@@ -11,8 +11,6 @@
 -------------------------------------------------------------------------------------------------------------------------------------------
 # @1Learning sites/学习站点
 
-please click [Sites](https://github.com/SixDuffy/REPOSITORY/blob/master/Studying%20Sites.txt)
-
 [免费论文网](https://arxiv.org/)
 
 [可汗学院网易公开课](https://open.163.com/khan/)
@@ -23,8 +21,7 @@ please click [Sites](https://github.com/SixDuffy/REPOSITORY/blob/master/Studying
 
 [Coursera](https://www.coursera.org/)
 
-
-
+[Learn more](https://github.com/SixDuffy/REPOSITORY/blob/master/Studying%20Sites.txt)
 
 
 # @2Translation/翻译
