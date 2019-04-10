@@ -2,11 +2,6 @@
 
 1、机器学习就是这么好玩！(medium.com/@ageitgey)
  
-机器学习速成课程（Berkeley的ML）：
-Part I：https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/
-Part II：https://ml.berkeley.edu/blog/2016/12/24/tutorial-2/
-Part III：https://ml.berkeley.edu/blog/2017/02/04/tutorial-3/
- 
 机器学习入门与应用：实例图解(toptal.com)
 https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer
  
@@ -56,7 +51,7 @@ https://www.quora.com/What-is-bias-in-artificial-neural-network
  
 4、感知器（Perceptron）
 
-感知器模型(neuralnetworksanddeeplearning.com)
+#感知器模型(neuralnetworksanddeeplearning.com)
 http://neuralnetworksanddeeplearning.com/chap1.html#perceptrons
  
 感知器(natureofcode.com)
@@ -342,10 +337,13 @@ https://google.github.io/seq2seq/
 
 1、Python
 
+#Python3.5.7官方教程
+https://docs.python.org/3.5/tutorial/index.html
+
 使用Python精通机器学习的七步法(kdnuggets.com)
 http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html
  
-机器学习的一个简例(nbviewer.jupyter.org)
+#机器学习的一个简例(nbviewer.jupyter.org)
 http://nbviewer.jupyter.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example Machine Learning Notebook.ipynb
 
 2、实例
@@ -376,7 +374,7 @@ http://machinelearningmastery.com/learn-add-numbers-seq2seq-recurrent-neural-net
 Scipy课程笔记(scipy-lectures.org)
 http://www.scipy-lectures.org/
  
-Python Numpy 教程(Stanford CS231n)
+#Python Numpy 教程(Stanford CS231n)
 http://cs231n.github.io/python-numpy-tutorial/
  
 Numpy 与 Scipy 入门(UCSB CHE210D)
@@ -401,7 +399,7 @@ https://github.com/mmmayo13/scikit-learn-beginners-tutorials
  
 5、Tensorflow
 
- Tensorflow教程（中文）
+#Tensorflow教程（中文）
 http://www.tensorfly.cn/
 
 Tensorflow教程(tensorflow.org)
@@ -510,6 +508,6 @@ http://web.stanford.edu/class/cs224n/lecture_notes/cs224n-2017-review-differenti
 计算方法概论(readthedocs.io)
 http://ml-cheatsheet.readthedocs.io/en/latest/calculus.html
 
-1周志华西瓜书公式解析
+#1周志华西瓜书公式解析
 https://github.com/datawhalechina/pumpkin-book
 
