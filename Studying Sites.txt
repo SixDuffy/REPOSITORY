@@ -510,4 +510,35 @@ http://ml-cheatsheet.readthedocs.io/en/latest/calculus.html
 
 #1周志华西瓜书公式解析
 https://github.com/datawhalechina/pumpkin-book
+Python学习目录
+http://www.matools.com/blog/190349847
+http://www.matools.com/blog/190388204
 
+100个C语言经典小程序和C语言编写的小游戏，带注释和解析
+http://c.biancheng.net/cpp/u/yuanma/
+http://c.biancheng.net/cpp/
+
+PDF之家-电子书下载
+http://pdfzj.cn/
+
+内酷网-电子书
+http://neikuw.com/
+
+面试指南
+https://github.com/imhuay/Algorithm_Interview_Notes-Chinese
+
+Python面试
+https://github.com/leeguandong/Interview-code-practice-python
+https://github.com/TheAlgorithms/Python
+
+wikibooks
+https://en.wikibooks.org/wiki/Main_Page
+
+python书籍目录
+https://mp.weixin.qq.com/s/2PAPQi_rAVhIcVbxFXlCcA
+
+常用算法python实现
+https://mp.weixin.qq.com/s/43JByGPf4XNeOVClga63Tg
+
+大数据
+https://www.edureka.co/
